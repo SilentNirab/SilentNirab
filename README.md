@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="100%" src="https://i.ibb.co/tBgcxWJ/Cover.jpg">
-<h3 align="center">A passionate MERN Stack Web developer</h3>
+<h3 align="left">About me:</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/BLV2sgT/1-yw0-Tnhe-AGN-LPne-Da-Tlaxw.gif">
 
 - 🔭 I’m currently working on **front-end development, specializing in React.js for dynamic and user-friendly interfaces.**
@@ -25,8 +25,6 @@
 <h3 align="left">Github Stats:</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SilentNirab&theme=react" alt="GitHub Streak" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silentnirab&show_icons=true&locale=en&layout=compact" alt="silentnirab" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilentNirab&theme=react)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SilentNirab&theme=react)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silentnirab&show_icons=true&locale=en" alt="silentnirab" /></p>
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilentNirab&theme=react)
