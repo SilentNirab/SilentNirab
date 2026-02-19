@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://i.ibb.co/tBgcxWJ/Cover.jpg">
+<!-- <img align="center" alt="Coding" width="100%" src="https://i.ibb.co/tBgcxWJ/Cover.jpg"> -->
 <h3 align="left">About me:</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/BLV2sgT/1-yw0-Tnhe-AGN-LPne-Da-Tlaxw.gif">
 
